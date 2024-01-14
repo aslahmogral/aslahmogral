@@ -23,6 +23,6 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,github,git,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
 
