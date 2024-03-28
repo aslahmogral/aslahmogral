@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: https://www.linkedin.com/in/aslahmogral/
+- 📫 How to reach me: https://www.aslahmogral.dev
   
 ### Connect with me:
 <div id="badges">
